@@ -5,7 +5,7 @@ import squad from '../images/group.png'
 
 export const Cards = () => {
   return (
-    <div className='w-full py-[10rem]  my-5 '>
+    <div className='w-full py-[2rem]  my-5 '>
         <div className='max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8 '>
            
             <div className=' shadow-xl flex flex-col items-center p-4 hover:scale-105 duration-300 bg-gray-100'>
